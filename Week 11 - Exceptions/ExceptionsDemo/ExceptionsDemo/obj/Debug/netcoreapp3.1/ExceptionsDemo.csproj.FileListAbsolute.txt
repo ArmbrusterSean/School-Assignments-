@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\bin\Debug\netcoreapp3.1\ExceptionsDemo.exe
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\bin\Debug\netcoreapp3.1\ExceptionsDemo.deps.json
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\bin\Debug\netcoreapp3.1\ExceptionsDemo.runtimeconfig.json
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\bin\Debug\netcoreapp3.1\ExceptionsDemo.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\bin\Debug\netcoreapp3.1\ExceptionsDemo.dll
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\bin\Debug\netcoreapp3.1\ExceptionsDemo.pdb
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\obj\Debug\netcoreapp3.1\ExceptionsDemo.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\obj\Debug\netcoreapp3.1\ExceptionsDemo.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\obj\Debug\netcoreapp3.1\ExceptionsDemo.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\obj\Debug\netcoreapp3.1\ExceptionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\obj\Debug\netcoreapp3.1\ExceptionsDemo.dll
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\obj\Debug\netcoreapp3.1\ExceptionsDemo.pdb
+C:\Users\ACER\source\repos\ExceptionsDemo\ExceptionsDemo\obj\Debug\netcoreapp3.1\ExceptionsDemo.genruntimeconfig.cache

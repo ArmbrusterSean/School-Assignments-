@@ -1,0 +1,3 @@
+﻿  SeanArmbruster_CorporateSales.cpp
+C:\Users\ACER\source\repos\SeanArmbruster_CorporateSales\SeanArmbruster_CorporateSales\DivSales.h(48): warning C4715: 'DivSales::getQaurter': not all control paths return a value
+  SeanArmbruster_CorporateSales.vcxproj -> C:\Users\ACER\source\repos\SeanArmbruster_CorporateSales\Debug\SeanArmbruster_CorporateSales.exe

@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\bin\Debug\netcoreapp3.1\ThreadingExample.exe
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\bin\Debug\netcoreapp3.1\ThreadingExample.deps.json
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\bin\Debug\netcoreapp3.1\ThreadingExample.runtimeconfig.json
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\bin\Debug\netcoreapp3.1\ThreadingExample.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\bin\Debug\netcoreapp3.1\ThreadingExample.dll
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\bin\Debug\netcoreapp3.1\ThreadingExample.pdb
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\obj\Debug\netcoreapp3.1\ThreadingExample.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\obj\Debug\netcoreapp3.1\ThreadingExample.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\obj\Debug\netcoreapp3.1\ThreadingExample.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\obj\Debug\netcoreapp3.1\ThreadingExample.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\obj\Debug\netcoreapp3.1\ThreadingExample.dll
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\obj\Debug\netcoreapp3.1\ThreadingExample.pdb
+C:\Users\ACER\source\repos\ThreadingExample\ThreadingExample\obj\Debug\netcoreapp3.1\ThreadingExample.genruntimeconfig.cache
